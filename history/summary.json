@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 76,
-    "timeWeek": 90,
-    "timeMonth": 119,
-    "timeYear": 127,
+    "time": 128,
+    "timeDay": 174,
+    "timeWeek": 104,
+    "timeMonth": 121,
+    "timeYear": 128,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 142,
-    "timeWeek": 153,
-    "timeMonth": 155,
+    "timeDay": 145,
+    "timeWeek": 145,
+    "timeMonth": 154,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -42,18 +42,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 176,
-    "timeWeek": 173,
-    "timeMonth": 170,
-    "timeYear": 168,
-    "dailyMinutesDown": {
-      "2022-03-28": 13
-    }
+    "time": 171,
+    "timeDay": 204,
+    "timeWeek": 198,
+    "timeMonth": 174,
+    "timeYear": 171,
+    "dailyMinutesDown": {}
   },
   {
     "name": "iabalear.com",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 791,
-    "timeDay": 728,
-    "timeWeek": 792,
-    "timeMonth": 786,
-    "timeYear": 791,
+    "time": 792,
+    "timeDay": 813,
+    "timeWeek": 781,
+    "timeMonth": 787,
+    "timeYear": 792,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 892,
-    "timeDay": 807,
-    "timeWeek": 864,
-    "timeMonth": 876,
-    "timeYear": 892,
+    "time": 891,
+    "timeDay": 840,
+    "timeWeek": 841,
+    "timeMonth": 875,
+    "timeYear": 891,
     "dailyMinutesDown": {}
   }
 ]
