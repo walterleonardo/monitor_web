@@ -40,18 +40,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 371,
-    "timeWeek": 277,
-    "timeMonth": 281,
-    "timeYear": 206,
-    "dailyMinutesDown": {}
+    "time": 204,
+    "timeDay": 218,
+    "timeWeek": 251,
+    "timeMonth": 274,
+    "timeYear": 204,
+    "dailyMinutesDown": {
+      "2022-06-13": 0
+    }
   },
   {
     "name": "iabalear.com",
