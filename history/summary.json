@@ -4,9 +4,9 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 119,
     "timeMonth": 100,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-21": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -72,7 +74,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "up",
-    "uptime": "94.36%",
+    "uptime": "94.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.49%",
