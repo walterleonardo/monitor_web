@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 71,
-    "timeWeek": 78,
+    "timeDay": 91,
+    "timeWeek": 82,
     "timeMonth": 80,
     "timeYear": 128,
     "dailyMinutesDown": {
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 175,
-    "timeWeek": 180,
-    "timeMonth": 213,
+    "timeDay": 145,
+    "timeWeek": 172,
+    "timeMonth": 212,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -51,10 +51,10 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.84%",
     "time": 327,
-    "timeDay": 135,
-    "timeWeek": 1169,
-    "timeMonth": 562,
-    "timeYear": 332,
+    "timeDay": 142,
+    "timeWeek": 1137,
+    "timeMonth": 554,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2024-01-10": 122,
       "2023-12-15": 28,
@@ -82,15 +82,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "up",
-    "uptime": "95.69%",
+    "uptime": "95.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "91.81%",
-    "time": 882,
-    "timeDay": 636,
-    "timeWeek": 671,
-    "timeMonth": 2123,
+    "time": 883,
+    "timeDay": 916,
+    "timeWeek": 710,
+    "timeMonth": 2132,
     "timeYear": 954,
     "dailyMinutesDown": {
       "2024-01-03": 77,
@@ -129,8 +129,7 @@
       "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
-      "2023-01-16": 1440,
-      "2023-01-15": 300
+      "2023-01-16": 1440
     }
   },
   {
@@ -139,15 +138,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fcrentacarmallorca.com.ico",
     "slug": "fcrentacarmallorca",
     "status": "up",
-    "uptime": "95.70%",
+    "uptime": "95.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "91.83%",
-    "time": 840,
-    "timeDay": 709,
-    "timeWeek": 743,
-    "timeMonth": 1980,
+    "time": 841,
+    "timeDay": 943,
+    "timeWeek": 785,
+    "timeMonth": 1986,
     "timeYear": 862,
     "dailyMinutesDown": {
       "2024-01-03": 223,
@@ -184,8 +183,7 @@
       "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
-      "2023-01-16": 1440,
-      "2023-01-15": 315
+      "2023-01-16": 1440
     }
   }
 ]
