@@ -13,7 +13,7 @@
     "time": 120,
     "timeDay": 79,
     "timeWeek": 82,
-    "timeMonth": 81,
+    "timeMonth": 82,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2023-10-09": 18,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 262,
-    "timeWeek": 189,
-    "timeMonth": 206,
+    "timeDay": 206,
+    "timeWeek": 169,
+    "timeMonth": 207,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -51,10 +51,10 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.84%",
     "time": 326,
-    "timeDay": 402,
-    "timeWeek": 185,
+    "timeDay": 439,
+    "timeWeek": 219,
     "timeMonth": 548,
-    "timeYear": 330,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2024-01-10": 122,
       "2023-12-15": 28,
@@ -86,11 +86,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "92.43%",
+    "uptimeYear": "92.70%",
     "time": 918,
-    "timeDay": 543,
-    "timeWeek": 715,
-    "timeMonth": 2130,
+    "timeDay": 615,
+    "timeWeek": 725,
+    "timeMonth": 2132,
     "timeYear": 972,
     "dailyMinutesDown": {
       "2024-01-03": 77,
@@ -125,8 +125,7 @@
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
-      "2023-01-20": 1440,
-      "2023-01-19": 1440
+      "2023-01-20": 1440
     }
   },
   {
@@ -135,15 +134,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fcrentacarmallorca.com.ico",
     "slug": "fcrentacarmallorca",
     "status": "up",
-    "uptime": "95.72%",
+    "uptime": "95.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "92.44%",
+    "uptimeYear": "92.72%",
     "time": 841,
-    "timeDay": 649,
-    "timeWeek": 801,
-    "timeMonth": 1989,
+    "timeDay": 611,
+    "timeWeek": 794,
+    "timeMonth": 1987,
     "timeYear": 875,
     "dailyMinutesDown": {
       "2024-01-03": 223,
@@ -176,8 +175,7 @@
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
-      "2023-01-20": 1440,
-      "2023-01-19": 1440
+      "2023-01-20": 1440
     }
   }
 ]
