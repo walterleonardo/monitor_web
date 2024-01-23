@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 81,
-    "timeWeek": 79,
-    "timeMonth": 82,
+    "timeDay": 74,
+    "timeWeek": 76,
+    "timeMonth": 81,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2023-10-09": 18,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 317,
-    "timeWeek": 229,
-    "timeMonth": 209,
-    "timeYear": 212,
+    "timeDay": 96,
+    "timeWeek": 214,
+    "timeMonth": 205,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   },
   {
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.84%",
     "time": 325,
-    "timeDay": 315,
-    "timeWeek": 287,
-    "timeMonth": 545,
+    "timeDay": 179,
+    "timeWeek": 296,
+    "timeMonth": 548,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2024-01-10": 122,
@@ -82,16 +82,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "up",
-    "uptime": "95.74%",
+    "uptime": "95.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "93.52%",
+    "uptimeYear": "93.80%",
     "time": 919,
-    "timeDay": 603,
-    "timeWeek": 694,
-    "timeMonth": 2131,
-    "timeYear": 975,
+    "timeDay": 918,
+    "timeWeek": 696,
+    "timeMonth": 2132,
+    "timeYear": 976,
     "dailyMinutesDown": {
       "2024-01-03": 77,
       "2023-10-11": 20,
@@ -121,8 +121,7 @@
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
-      "2023-01-24": 1440,
-      "2023-01-23": 1440
+      "2023-01-24": 1440
     }
   },
   {
@@ -135,12 +134,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "93.54%",
+    "uptimeYear": "93.81%",
     "time": 839,
-    "timeDay": 711,
-    "timeWeek": 749,
-    "timeMonth": 1988,
-    "timeYear": 878,
+    "timeDay": 957,
+    "timeWeek": 747,
+    "timeMonth": 1987,
+    "timeYear": 879,
     "dailyMinutesDown": {
       "2024-01-03": 223,
       "2023-09-23": 638,
@@ -168,8 +167,7 @@
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
-      "2023-01-24": 1440,
-      "2023-01-23": 1440
+      "2023-01-24": 1440
     }
   }
 ]
