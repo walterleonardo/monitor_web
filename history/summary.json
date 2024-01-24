@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 74,
-    "timeWeek": 76,
-    "timeMonth": 81,
+    "timeDay": 118,
+    "timeWeek": 82,
+    "timeMonth": 82,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2023-10-09": 18,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 96,
+    "timeDay": 155,
     "timeWeek": 214,
-    "timeMonth": 205,
+    "timeMonth": 207,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.84%",
-    "time": 325,
-    "timeDay": 179,
-    "timeWeek": 296,
-    "timeMonth": 548,
-    "timeYear": 330,
+    "time": 324,
+    "timeDay": 74,
+    "timeWeek": 274,
+    "timeMonth": 545,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2024-01-10": 122,
       "2023-12-15": 28,
@@ -82,16 +82,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "up",
-    "uptime": "95.75%",
+    "uptime": "95.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "93.80%",
-    "time": 919,
-    "timeDay": 918,
-    "timeWeek": 696,
-    "timeMonth": 2132,
-    "timeYear": 976,
+    "uptimeYear": "94.07%",
+    "time": 920,
+    "timeDay": 905,
+    "timeWeek": 738,
+    "timeMonth": 2130,
+    "timeYear": 978,
     "dailyMinutesDown": {
       "2024-01-03": 77,
       "2023-10-11": 20,
@@ -120,8 +120,7 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 1440,
-      "2023-01-24": 1440
+      "2023-01-25": 1440
     }
   },
   {
@@ -130,16 +129,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fcrentacarmallorca.com.ico",
     "slug": "fcrentacarmallorca",
     "status": "up",
-    "uptime": "95.75%",
+    "uptime": "95.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "93.81%",
-    "time": 839,
-    "timeDay": 957,
-    "timeWeek": 747,
+    "uptimeYear": "94.09%",
+    "time": 840,
+    "timeDay": 969,
+    "timeWeek": 788,
     "timeMonth": 1987,
-    "timeYear": 879,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2024-01-03": 223,
       "2023-09-23": 638,
@@ -166,8 +165,7 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 1440,
-      "2023-01-24": 1440
+      "2023-01-25": 1440
     }
   }
 ]
