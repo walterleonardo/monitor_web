@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 74,
-    "timeWeek": 82,
+    "timeDay": 83,
+    "timeWeek": 83,
     "timeMonth": 83,
-    "timeYear": 128,
+    "timeYear": 127,
     "dailyMinutesDown": {
       "2023-10-09": 18,
       "2023-10-07": 32,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 343,
-    "timeWeek": 218,
-    "timeMonth": 190,
-    "timeYear": 211,
+    "timeDay": 177,
+    "timeWeek": 229,
+    "timeMonth": 191,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   },
   {
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.84%",
-    "time": 324,
-    "timeDay": 308,
-    "timeWeek": 208,
-    "timeMonth": 533,
+    "time": 323,
+    "timeDay": 269,
+    "timeWeek": 228,
+    "timeMonth": 537,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2024-01-10": 122,
@@ -86,11 +86,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "94.62%",
+    "uptimeYear": "94.89%",
     "time": 920,
-    "timeDay": 599,
-    "timeWeek": 788,
-    "timeMonth": 2141,
+    "timeDay": 634,
+    "timeWeek": 745,
+    "timeMonth": 2134,
     "timeYear": 980,
     "dailyMinutesDown": {
       "2024-01-03": 77,
@@ -117,8 +117,7 @@
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
-      "2023-01-28": 1440,
-      "2023-01-27": 1440
+      "2023-01-28": 1440
     }
   },
   {
@@ -127,15 +126,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fcrentacarmallorca.com.ico",
     "slug": "fcrentacarmallorca",
     "status": "up",
-    "uptime": "95.77%",
+    "uptime": "95.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "94.64%",
+    "uptimeYear": "94.91%",
     "time": 840,
-    "timeDay": 725,
-    "timeWeek": 848,
-    "timeMonth": 1997,
+    "timeDay": 608,
+    "timeWeek": 797,
+    "timeMonth": 1987,
     "timeYear": 883,
     "dailyMinutesDown": {
       "2024-01-03": 223,
@@ -160,8 +159,7 @@
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
-      "2023-01-28": 1440,
-      "2023-01-27": 1440
+      "2023-01-28": 1440
     }
   }
 ]
