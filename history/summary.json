@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 73,
-    "timeWeek": 78,
+    "timeDay": 61,
+    "timeWeek": 76,
     "timeMonth": 79,
-    "timeYear": 125,
+    "timeYear": 124,
     "dailyMinutesDown": {
       "2023-10-09": 18,
       "2023-10-07": 32,
@@ -32,10 +32,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 252,
-    "timeWeek": 183,
-    "timeMonth": 195,
+    "time": 217,
+    "timeDay": 224,
+    "timeWeek": 186,
+    "timeMonth": 196,
     "timeYear": 212,
     "dailyMinutesDown": {}
   },
@@ -49,11 +49,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 322,
-    "timeDay": 485,
-    "timeWeek": 332,
-    "timeMonth": 554,
+    "timeDay": 426,
+    "timeWeek": 324,
+    "timeMonth": 552,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2024-01-10": 122,
@@ -85,11 +85,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.91%",
-    "time": 920,
-    "timeDay": 559,
-    "timeWeek": 686,
-    "timeMonth": 705,
+    "uptimeYear": "98.18%",
+    "time": 919,
+    "timeDay": 524,
+    "timeWeek": 682,
+    "timeMonth": 702,
     "timeYear": 988,
     "dailyMinutesDown": {
       "2024-01-03": 77,
@@ -104,8 +104,7 @@
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
-      "2023-02-09": 1440,
-      "2023-02-08": 1440
+      "2023-02-09": 1440
     }
   },
   {
@@ -114,16 +113,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fcrentacarmallorca.com.ico",
     "slug": "fcrentacarmallorca",
     "status": "up",
-    "uptime": "95.84%",
+    "uptime": "95.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.92%",
+    "uptimeYear": "98.20%",
     "time": 839,
-    "timeDay": 669,
-    "timeWeek": 743,
-    "timeMonth": 764,
-    "timeYear": 889,
+    "timeDay": 591,
+    "timeWeek": 734,
+    "timeMonth": 762,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2024-01-03": 223,
       "2023-09-23": 638,
@@ -135,8 +134,7 @@
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
-      "2023-02-09": 1440,
-      "2023-02-08": 1440
+      "2023-02-09": 1440
     }
   }
 ]
