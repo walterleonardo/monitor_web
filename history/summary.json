@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 119,
-    "timeDay": 84,
-    "timeWeek": 71,
-    "timeMonth": 78,
+    "timeDay": 71,
+    "timeWeek": 70,
+    "timeMonth": 77,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2023-10-09": 18,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 125,
-    "timeWeek": 155,
-    "timeMonth": 186,
+    "timeDay": 176,
+    "timeWeek": 170,
+    "timeMonth": 191,
     "timeYear": 212,
     "dailyMinutesDown": {}
   },
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 322,
-    "timeDay": 76,
-    "timeWeek": 275,
-    "timeMonth": 261,
-    "timeYear": 326,
+    "timeDay": 348,
+    "timeWeek": 312,
+    "timeMonth": 270,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2024-01-10": 122,
       "2023-12-15": 28,
@@ -85,11 +85,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.28%",
+    "uptimeYear": "99.55%",
     "time": 918,
-    "timeDay": 881,
-    "timeWeek": 711,
-    "timeMonth": 715,
+    "timeDay": 621,
+    "timeWeek": 667,
+    "timeMonth": 707,
     "timeYear": 992,
     "dailyMinutesDown": {
       "2024-01-03": 77,
@@ -99,8 +99,7 @@
       "2023-07-27": 16,
       "2023-07-12": 440,
       "2023-07-11": 221,
-      "2023-03-05": 175,
-      "2023-02-13": 510
+      "2023-03-05": 175
     }
   },
   {
@@ -109,15 +108,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fcrentacarmallorca.com.ico",
     "slug": "fcrentacarmallorca",
     "status": "up",
-    "uptime": "95.87%",
+    "uptime": "95.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.57%",
     "time": 839,
-    "timeDay": 973,
-    "timeWeek": 783,
-    "timeMonth": 774,
+    "timeDay": 711,
+    "timeWeek": 745,
+    "timeMonth": 765,
     "timeYear": 893,
     "dailyMinutesDown": {
       "2024-01-03": 223,
@@ -125,8 +124,7 @@
       "2023-09-22": 165,
       "2023-07-12": 440,
       "2023-07-11": 221,
-      "2023-03-05": 135,
-      "2023-02-13": 510
+      "2023-03-05": 135
     }
   }
 ]
