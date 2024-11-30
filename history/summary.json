@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 92,
-    "timeWeek": 105,
-    "timeMonth": 102,
+    "timeDay": 77,
+    "timeWeek": 96,
+    "timeMonth": 101,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2024-05-01": 36
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 232,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 216,
+    "timeDay": 193,
+    "timeWeek": 205,
+    "timeMonth": 210,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 314,
-    "timeDay": 457,
-    "timeWeek": 288,
-    "timeMonth": 299,
+    "timeDay": 350,
+    "timeWeek": 297,
+    "timeMonth": 308,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2024-09-07": 51,
@@ -63,8 +63,7 @@
       "2024-01-10": 122,
       "2023-12-15": 28,
       "2023-12-12": 237,
-      "2023-12-06": 24,
-      "2023-12-01": 26
+      "2023-12-06": 24
     }
   },
   {
@@ -73,18 +72,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "83.55%",
+    "uptime": "83.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.44%",
-    "time": 1086,
+    "uptimeYear": "62.17%",
+    "time": 1072,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1202,
+    "timeYear": 1205,
     "dailyMinutesDown": {
-      "2024-11-29": 75,
+      "2024-11-30": 73,
+      "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
@@ -243,9 +243,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 885,
-    "timeDay": 622,
-    "timeWeek": 902,
-    "timeMonth": 867,
+    "timeDay": 802,
+    "timeWeek": 845,
+    "timeMonth": 858,
     "timeYear": 911,
     "dailyMinutesDown": {
       "2024-10-27": 30,
