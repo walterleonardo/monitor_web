@@ -11,8 +11,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 111,
-    "timeDay": 87,
-    "timeWeek": 93,
+    "timeDay": 71,
+    "timeWeek": 83,
     "timeMonth": 107,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 358,
-    "timeWeek": 334,
-    "timeMonth": 199,
-    "timeYear": 196,
+    "timeDay": 48,
+    "timeWeek": 316,
+    "timeMonth": 198,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 299,
-    "timeDay": 321,
-    "timeWeek": 320,
-    "timeMonth": 311,
-    "timeYear": 305,
+    "time": 300,
+    "timeDay": 498,
+    "timeWeek": 342,
+    "timeMonth": 315,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2024-09-07": 51
     }
@@ -66,18 +66,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "67.45%",
+    "uptime": "67.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1276,
+    "time": 1280,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-29": 109,
+      "2025-07-30": 100,
+      "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
@@ -440,8 +441,7 @@
       "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
-      "2024-07-31": 1440,
-      "2024-07-30": 1440
+      "2024-07-31": 1440
     }
   },
   {
@@ -455,11 +455,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "96.53%",
-    "time": 850,
-    "timeDay": 775,
+    "time": 851,
+    "timeDay": 881,
     "timeWeek": 850,
-    "timeMonth": 975,
-    "timeYear": 857,
+    "timeMonth": 972,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2025-07-10": 72,
       "2025-04-14": 24,
