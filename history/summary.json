@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 110,
-    "timeDay": 81,
-    "timeWeek": 137,
+    "timeDay": 74,
+    "timeWeek": 129,
     "timeMonth": 139,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 112,
-    "timeWeek": 169,
-    "timeMonth": 250,
+    "timeDay": 530,
+    "timeWeek": 223,
+    "timeMonth": 266,
     "timeYear": 201,
     "dailyMinutesDown": {}
   },
@@ -52,13 +52,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 305,
-    "timeDay": 105,
-    "timeWeek": 303,
-    "timeMonth": 351,
+    "timeDay": 374,
+    "timeWeek": 297,
+    "timeMonth": 350,
     "timeYear": 314,
-    "dailyMinutesDown": {
-      "2024-09-07": 51
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "iabalear.com",
@@ -66,18 +64,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "65.42%",
+    "uptime": "65.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1547,
+    "time": 1556,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 72,
+      "2025-09-07": 80,
+      "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -440,8 +439,7 @@
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
-      "2024-09-08": 1440,
-      "2024-09-07": 1440
+      "2024-09-08": 1440
     }
   },
   {
@@ -452,13 +450,13 @@
     "status": "up",
     "uptime": "95.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "36.69%",
+    "uptimeWeek": "51.04%",
     "uptimeMonth": "27.99%",
     "uptimeYear": "90.53%",
     "time": 842,
-    "timeDay": 986,
-    "timeWeek": 835,
-    "timeMonth": 777,
+    "timeDay": 672,
+    "timeWeek": 820,
+    "timeMonth": 779,
     "timeYear": 854,
     "dailyMinutesDown": {
       "2025-09-03": 694,
