@@ -1,7 +1,7 @@
 url: https://www.google.com
-status: up
-code: 200
-responseTime: 76
-lastUpdated: 2025-11-20T23:16:48.329Z
+status: down
+code: 429
+responseTime: 354
+lastUpdated: 2025-11-21T05:14:29.532Z
 startTime: 2020-08-10T07:54:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
