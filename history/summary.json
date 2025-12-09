@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 129,
-    "timeDay": 74,
-    "timeWeek": 90,
-    "timeMonth": 329,
+    "timeDay": 265,
+    "timeWeek": 117,
+    "timeMonth": 335,
     "timeYear": 136,
     "dailyMinutesDown": {
       "2025-11-21": 24,
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 193,
-    "timeWeek": 125,
-    "timeMonth": 174,
+    "timeDay": 237,
+    "timeWeek": 145,
+    "timeMonth": 178,
     "timeYear": 192,
     "dailyMinutesDown": {}
   },
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
-    "timeDay": 369,
-    "timeWeek": 267,
-    "timeMonth": 292,
+    "timeDay": 323,
+    "timeWeek": 259,
+    "timeMonth": 299,
     "timeYear": 302,
     "dailyMinutesDown": {}
   },
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "61.04%",
+    "uptime": "61.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -76,7 +76,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-08": 83,
+      "2025-12-09": 83,
+      "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
@@ -439,8 +440,7 @@
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1440
+      "2024-12-10": 1440
     }
   },
   {
@@ -455,10 +455,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.54%",
     "time": 847,
-    "timeDay": 663,
-    "timeWeek": 774,
-    "timeMonth": 795,
-    "timeYear": 857,
+    "timeDay": 829,
+    "timeWeek": 809,
+    "timeMonth": 789,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2025-09-03": 694,
       "2025-09-02": 1440,
@@ -502,8 +502,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 661,
       "2025-01-20": 21,
-      "2025-01-19": 279,
-      "2024-12-09": 17
+      "2025-01-19": 279
     }
   }
 ]
