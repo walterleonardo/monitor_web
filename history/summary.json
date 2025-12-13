@@ -11,8 +11,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 130,
-    "timeDay": 236,
-    "timeWeek": 155,
+    "timeDay": 95,
+    "timeWeek": 157,
     "timeMonth": 333,
     "timeYear": 137,
     "dailyMinutesDown": {
@@ -34,10 +34,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 70,
-    "timeWeek": 116,
-    "timeMonth": 152,
+    "time": 200,
+    "timeDay": 187,
+    "timeWeek": 126,
+    "timeMonth": 148,
     "timeYear": 190,
     "dailyMinutesDown": {}
   },
@@ -53,8 +53,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
-    "timeDay": 379,
-    "timeWeek": 310,
+    "timeDay": 296,
+    "timeWeek": 336,
     "timeMonth": 304,
     "timeYear": 302,
     "dailyMinutesDown": {}
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "60.87%",
+    "uptime": "60.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -76,7 +76,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-12": 85,
+      "2025-12-13": 80,
+      "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -439,8 +440,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   },
   {
@@ -449,14 +449,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/fcrentacarmallorca.com.ico",
     "slug": "fcrentacarmallorca",
     "status": "up",
-    "uptime": "95.36%",
+    "uptime": "95.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.54%",
     "time": 846,
-    "timeDay": 700,
-    "timeWeek": 772,
+    "timeDay": 729,
+    "timeWeek": 758,
     "timeMonth": 781,
     "timeYear": 856,
     "dailyMinutesDown": {
