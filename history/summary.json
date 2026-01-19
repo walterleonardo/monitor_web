@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 137,
-    "timeDay": 1058,
-    "timeWeek": 252,
-    "timeMonth": 202,
+    "timeDay": 136,
+    "timeWeek": 258,
+    "timeMonth": 204,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2025-12-24": 23,
@@ -37,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 182,
-    "timeWeek": 141,
-    "timeMonth": 205,
-    "timeYear": 189,
+    "timeDay": 156,
+    "timeWeek": 157,
+    "timeMonth": 180,
+    "timeYear": 190,
     "dailyMinutesDown": {}
   },
   {
@@ -55,10 +55,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 321,
-    "timeWeek": 241,
-    "timeMonth": 285,
-    "timeYear": 302,
+    "timeDay": 311,
+    "timeWeek": 227,
+    "timeMonth": 282,
+    "timeYear": 303,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "59.29%",
+    "uptime": "59.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -78,7 +78,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-18": 104,
+      "2026-01-19": 102,
+      "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
@@ -441,8 +442,7 @@
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
-      "2025-01-20": 1440,
-      "2025-01-19": 1440
+      "2025-01-20": 1440
     }
   },
   {
@@ -451,16 +451,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fcrentacarmallorca.com.ico",
     "slug": "fcrentacarmallorca",
     "status": "up",
-    "uptime": "95.48%",
+    "uptime": "95.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "90.54%",
+    "uptimeYear": "90.55%",
     "time": 847,
-    "timeDay": 853,
-    "timeWeek": 864,
-    "timeMonth": 807,
-    "timeYear": 840,
+    "timeDay": 791,
+    "timeWeek": 882,
+    "timeMonth": 813,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2025-12-22": 31,
       "2025-09-03": 694,
@@ -504,8 +504,7 @@
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 661,
-      "2025-01-20": 21,
-      "2025-01-19": 279
+      "2025-01-20": 21
     }
   }
 ]
