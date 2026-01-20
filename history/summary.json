@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 137,
-    "timeDay": 136,
-    "timeWeek": 258,
-    "timeMonth": 204,
+    "timeDay": 144,
+    "timeWeek": 264,
+    "timeMonth": 203,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2025-12-24": 23,
@@ -36,10 +36,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 156,
-    "timeWeek": 157,
-    "timeMonth": 180,
+    "time": 199,
+    "timeDay": 227,
+    "timeWeek": 176,
+    "timeMonth": 182,
     "timeYear": 190,
     "dailyMinutesDown": {}
   },
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 311,
-    "timeWeek": 227,
-    "timeMonth": 282,
+    "timeDay": 343,
+    "timeWeek": 262,
+    "timeMonth": 280,
     "timeYear": 303,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "59.25%",
+    "uptime": "59.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -78,7 +78,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-19": 102,
+      "2026-01-20": 88,
+      "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
@@ -441,8 +442,7 @@
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
-      "2025-01-21": 1440,
-      "2025-01-20": 1440
+      "2025-01-21": 1440
     }
   },
   {
@@ -455,11 +455,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "90.55%",
-    "time": 847,
-    "timeDay": 791,
-    "timeWeek": 882,
-    "timeMonth": 813,
+    "uptimeYear": "90.59%",
+    "time": 846,
+    "timeDay": 768,
+    "timeWeek": 869,
+    "timeMonth": 809,
     "timeYear": 839,
     "dailyMinutesDown": {
       "2025-12-22": 31,
@@ -503,8 +503,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 661,
-      "2025-01-20": 21
+      "2025-02-04": 661
     }
   }
 ]
