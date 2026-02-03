@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 138,
-    "timeDay": 132,
-    "timeWeek": 163,
-    "timeMonth": 152,
+    "timeDay": 126,
+    "timeWeek": 140,
+    "timeMonth": 153,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2025-12-24": 23,
@@ -35,10 +35,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 360,
-    "timeWeek": 191,
-    "timeMonth": 176,
+    "time": 199,
+    "timeDay": 88,
+    "timeWeek": 177,
+    "timeMonth": 165,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 95,
-    "timeWeek": 212,
-    "timeMonth": 237,
-    "timeYear": 301,
+    "time": 302,
+    "timeDay": 136,
+    "timeWeek": 170,
+    "timeMonth": 233,
+    "timeYear": 300,
     "dailyMinutesDown": {}
   },
   {
@@ -66,7 +66,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "58.67%",
+    "uptime": "58.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -77,7 +77,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-02": 119,
+      "2026-02-03": 118,
+      "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
@@ -440,8 +441,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -455,10 +455,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.59%",
-    "time": 855,
-    "timeDay": 1289,
-    "timeWeek": 1273,
-    "timeMonth": 941,
+    "time": 856,
+    "timeDay": 1015,
+    "timeWeek": 1296,
+    "timeMonth": 950,
     "timeYear": 833,
     "dailyMinutesDown": {
       "2025-12-22": 31,
