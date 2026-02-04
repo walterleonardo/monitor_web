@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 138,
-    "timeDay": 126,
-    "timeWeek": 140,
+    "timeDay": 95,
+    "timeWeek": 131,
     "timeMonth": 153,
     "timeYear": 147,
     "dailyMinutesDown": {
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 88,
-    "timeWeek": 177,
-    "timeMonth": 165,
+    "timeDay": 170,
+    "timeWeek": 188,
+    "timeMonth": 168,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 136,
-    "timeWeek": 170,
-    "timeMonth": 233,
+    "timeDay": 378,
+    "timeWeek": 209,
+    "timeMonth": 243,
     "timeYear": 300,
     "dailyMinutesDown": {}
   },
@@ -66,7 +66,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "58.63%",
+    "uptime": "58.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -77,7 +77,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 118,
+      "2026-02-04": 113,
+      "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
@@ -440,8 +441,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
-      "2025-02-05": 1440,
-      "2025-02-04": 1440
+      "2025-02-05": 1440
     }
   },
   {
@@ -450,15 +450,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fcrentacarmallorca.com.ico",
     "slug": "fcrentacarmallorca",
     "status": "up",
-    "uptime": "95.53%",
+    "uptime": "95.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.59%",
     "time": 856,
-    "timeDay": 1015,
-    "timeWeek": 1296,
-    "timeMonth": 950,
+    "timeDay": 768,
+    "timeWeek": 1015,
+    "timeMonth": 943,
     "timeYear": 833,
     "dailyMinutesDown": {
       "2025-12-22": 31,
@@ -501,8 +501,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
-      "2025-02-05": 1440,
-      "2025-02-04": 661
+      "2025-02-05": 1440
     }
   }
 ]
