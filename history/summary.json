@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 138,
-    "timeDay": 95,
-    "timeWeek": 131,
+    "timeDay": 93,
+    "timeWeek": 130,
     "timeMonth": 153,
     "timeYear": 147,
     "dailyMinutesDown": {
@@ -35,10 +35,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 170,
-    "timeWeek": 188,
-    "timeMonth": 168,
+    "time": 198,
+    "timeDay": 169,
+    "timeWeek": 185,
+    "timeMonth": 171,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -53,10 +53,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 378,
-    "timeWeek": 209,
-    "timeMonth": 243,
+    "time": 301,
+    "timeDay": 288,
+    "timeWeek": 193,
+    "timeMonth": 249,
     "timeYear": 300,
     "dailyMinutesDown": {}
   },
@@ -66,7 +66,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "58.56%",
+    "uptime": "58.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -77,7 +77,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 1361,
+      "2026-02-05": 115,
+      "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -440,8 +441,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
-      "2025-02-06": 1440,
-      "2025-02-05": 1440
+      "2025-02-06": 1440
     }
   },
   {
@@ -454,11 +454,11 @@
     "uptimeDay": "85.00%",
     "uptimeWeek": "97.86%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "90.66%",
+    "uptimeYear": "90.70%",
     "time": 856,
-    "timeDay": 706,
-    "timeWeek": 969,
-    "timeMonth": 934,
+    "timeDay": 627,
+    "timeWeek": 938,
+    "timeMonth": 927,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2026-02-04": 216,
@@ -501,8 +501,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
-      "2025-02-06": 1440,
-      "2025-02-05": 1440
+      "2025-02-06": 1440
     }
   }
 ]
