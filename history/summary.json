@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 138,
-    "timeDay": 93,
-    "timeWeek": 130,
-    "timeMonth": 153,
+    "timeDay": 103,
+    "timeWeek": 116,
+    "timeMonth": 154,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2025-12-24": 23,
@@ -35,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 169,
-    "timeWeek": 185,
-    "timeMonth": 171,
-    "timeYear": 191,
+    "time": 197,
+    "timeDay": 191,
+    "timeWeek": 182,
+    "timeMonth": 174,
+    "timeYear": 192,
     "dailyMinutesDown": {}
   },
   {
@@ -53,10 +53,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 288,
-    "timeWeek": 193,
-    "timeMonth": 249,
+    "time": 302,
+    "timeDay": 328,
+    "timeWeek": 206,
+    "timeMonth": 247,
     "timeYear": 300,
     "dailyMinutesDown": {}
   },
@@ -66,7 +66,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "58.55%",
+    "uptime": "58.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -77,7 +77,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-05": 115,
+      "2026-02-06": 114,
+      "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
@@ -440,8 +441,7 @@
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
-      "2025-02-07": 1440,
-      "2025-02-06": 1440
+      "2025-02-07": 1440
     }
   },
   {
@@ -451,15 +451,15 @@
     "slug": "fcrentacarmallorca",
     "status": "up",
     "uptime": "95.53%",
-    "uptimeDay": "85.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.86%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "90.70%",
+    "uptimeYear": "90.97%",
     "time": 856,
-    "timeDay": 627,
-    "timeWeek": 938,
-    "timeMonth": 927,
-    "timeYear": 834,
+    "timeDay": 765,
+    "timeWeek": 894,
+    "timeMonth": 930,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2026-02-04": 216,
       "2025-12-22": 31,
@@ -500,8 +500,7 @@
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
-      "2025-02-07": 1440,
-      "2025-02-06": 1440
+      "2025-02-07": 1440
     }
   }
 ]
