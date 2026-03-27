@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 142,
-    "timeDay": 159,
-    "timeWeek": 134,
-    "timeMonth": 138,
-    "timeYear": 152,
+    "time": 143,
+    "timeDay": 298,
+    "timeWeek": 157,
+    "timeMonth": 140,
+    "timeYear": 153,
     "dailyMinutesDown": {
       "2025-12-24": 23,
       "2025-12-13": 37,
@@ -36,8 +36,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 197,
-    "timeWeek": 221,
+    "timeDay": 191,
+    "timeWeek": 215,
     "timeMonth": 167,
     "timeYear": 195,
     "dailyMinutesDown": {}
@@ -54,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 353,
-    "timeWeek": 270,
-    "timeMonth": 243,
-    "timeYear": 295,
+    "timeDay": 310,
+    "timeWeek": 281,
+    "timeMonth": 242,
+    "timeYear": 296,
     "dailyMinutesDown": {}
   },
   {
@@ -66,7 +66,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "56.63%",
+    "uptime": "56.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -77,7 +77,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-26": 127,
+      "2026-03-27": 128,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -440,8 +441,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   },
   {
@@ -456,10 +456,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.93%",
     "time": 861,
-    "timeDay": 723,
-    "timeWeek": 814,
-    "timeMonth": 996,
-    "timeYear": 851,
+    "timeDay": 878,
+    "timeWeek": 829,
+    "timeMonth": 998,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2026-02-04": 216,
       "2025-12-22": 31,
