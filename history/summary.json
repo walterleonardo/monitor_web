@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 143,
-    "timeDay": 97,
+    "timeDay": 81,
     "timeWeek": 153,
-    "timeMonth": 140,
-    "timeYear": 153,
+    "timeMonth": 138,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2025-12-24": 23,
       "2025-12-13": 37,
@@ -37,9 +37,9 @@
     "uptimeYear": "100.00%",
     "time": 190,
     "timeDay": 48,
-    "timeWeek": 177,
-    "timeMonth": 168,
-    "timeYear": 195,
+    "timeWeek": 137,
+    "timeMonth": 164,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   },
   {
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 499,
-    "timeWeek": 325,
-    "timeMonth": 249,
-    "timeYear": 295,
+    "time": 297,
+    "timeDay": 529,
+    "timeWeek": 337,
+    "timeMonth": 258,
+    "timeYear": 296,
     "dailyMinutesDown": {}
   },
   {
@@ -66,10 +66,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "56.48%",
+    "uptime": "56.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -77,7 +77,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-30": 133,
+      "2026-03-31": 128,
+      "2026-03-30": 1440,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
@@ -440,8 +441,7 @@
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
-      "2025-04-01": 1440,
-      "2025-03-31": 1440
+      "2025-04-01": 1440
     }
   },
   {
@@ -455,11 +455,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.93%",
-    "time": 861,
-    "timeDay": 745,
+    "time": 860,
+    "timeDay": 661,
     "timeWeek": 795,
-    "timeMonth": 990,
-    "timeYear": 851,
+    "timeMonth": 979,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2026-02-04": 216,
       "2025-12-22": 31,
