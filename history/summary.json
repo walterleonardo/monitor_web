@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 142,
-    "timeDay": 97,
-    "timeWeek": 143,
+    "timeDay": 101,
+    "timeWeek": 134,
     "timeMonth": 115,
     "timeYear": 152,
     "dailyMinutesDown": {
@@ -36,10 +36,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 96,
-    "timeWeek": 138,
-    "timeMonth": 166,
-    "timeYear": 194,
+    "timeDay": 218,
+    "timeWeek": 141,
+    "timeMonth": 169,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -54,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 297,
-    "timeDay": 132,
-    "timeWeek": 341,
-    "timeMonth": 259,
-    "timeYear": 296,
+    "timeDay": 252,
+    "timeWeek": 327,
+    "timeMonth": 261,
+    "timeYear": 295,
     "dailyMinutesDown": {}
   },
   {
@@ -66,7 +66,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "56.41%",
+    "uptime": "56.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -77,7 +77,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-01": 146,
+      "2026-04-02": 125,
+      "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -440,8 +441,7 @@
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
-      "2025-04-03": 1440,
-      "2025-04-02": 1440
+      "2025-04-03": 1440
     }
   },
   {
@@ -450,15 +450,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fcrentacarmallorca.com.ico",
     "slug": "fcrentacarmallorca",
     "status": "up",
-    "uptime": "95.69%",
+    "uptime": "95.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.93%",
-    "time": 860,
-    "timeDay": 835,
-    "timeWeek": 782,
-    "timeMonth": 975,
+    "time": 859,
+    "timeDay": 948,
+    "timeWeek": 814,
+    "timeMonth": 978,
     "timeYear": 850,
     "dailyMinutesDown": {
       "2026-02-04": 216,
