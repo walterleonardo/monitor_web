@@ -11,8 +11,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 144,
-    "timeDay": 93,
-    "timeWeek": 178,
+    "timeDay": 111,
+    "timeWeek": 128,
     "timeMonth": 141,
     "timeYear": 155,
     "dailyMinutesDown": {
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 108,
-    "timeWeek": 136,
-    "timeMonth": 172,
+    "timeDay": 51,
+    "timeWeek": 114,
+    "timeMonth": 158,
     "timeYear": 197,
     "dailyMinutesDown": {}
   },
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 434,
-    "timeWeek": 224,
-    "timeMonth": 259,
-    "timeYear": 292,
+    "time": 294,
+    "timeDay": 89,
+    "timeWeek": 223,
+    "timeMonth": 258,
+    "timeYear": 291,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "55.96%",
+    "uptime": "55.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -78,7 +78,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-13": 150,
+      "2026-04-14": 144,
+      "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
@@ -441,8 +442,7 @@
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
-      "2025-04-15": 1440,
-      "2025-04-14": 1440
+      "2025-04-15": 1440
     }
   },
   {
@@ -457,10 +457,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.93%",
     "time": 854,
-    "timeDay": 625,
-    "timeWeek": 843,
+    "timeDay": 959,
+    "timeWeek": 876,
     "timeMonth": 835,
-    "timeYear": 851,
+    "timeYear": 852,
     "dailyMinutesDown": {
       "2026-02-04": 216,
       "2025-12-22": 31,
@@ -487,8 +487,7 @@
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 608,
-      "2025-07-10": 72,
-      "2025-04-14": 24
+      "2025-07-10": 72
     }
   }
 ]
