@@ -11,9 +11,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 144,
-    "timeDay": 111,
-    "timeWeek": 128,
-    "timeMonth": 141,
+    "timeDay": 110,
+    "timeWeek": 129,
+    "timeMonth": 142,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2026-04-11": 50,
@@ -37,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 51,
+    "timeDay": 205,
     "timeWeek": 114,
-    "timeMonth": 158,
-    "timeYear": 197,
+    "timeMonth": 162,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
@@ -55,10 +55,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 89,
+    "timeDay": 317,
     "timeWeek": 223,
-    "timeMonth": 258,
-    "timeYear": 291,
+    "timeMonth": 263,
+    "timeYear": 292,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "55.92%",
+    "uptime": "55.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -78,7 +78,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 144,
+      "2026-04-15": 133,
+      "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
@@ -441,8 +442,7 @@
       "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
-      "2025-04-16": 1440,
-      "2025-04-15": 1440
+      "2025-04-16": 1440
     }
   },
   {
@@ -455,12 +455,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.93%",
-    "time": 854,
-    "timeDay": 959,
-    "timeWeek": 876,
-    "timeMonth": 835,
-    "timeYear": 852,
+    "uptimeYear": "93.94%",
+    "time": 853,
+    "timeDay": 742,
+    "timeWeek": 843,
+    "timeMonth": 828,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2026-02-04": 216,
       "2025-12-22": 31,
