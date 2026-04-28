@@ -11,9 +11,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 144,
-    "timeDay": 94,
-    "timeWeek": 110,
-    "timeMonth": 129,
+    "timeDay": 86,
+    "timeWeek": 108,
+    "timeMonth": 126,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2026-04-11": 50,
@@ -21,8 +21,7 @@
       "2025-12-13": 37,
       "2025-11-21": 24,
       "2025-07-02": 21,
-      "2025-04-29": 56,
-      "2025-04-28": 11
+      "2025-04-29": 56
     }
   },
   {
@@ -36,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 47,
-    "timeWeek": 236,
-    "timeMonth": 175,
-    "timeYear": 197,
+    "time": 189,
+    "timeDay": 773,
+    "timeWeek": 330,
+    "timeMonth": 194,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
@@ -55,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 113,
-    "timeWeek": 269,
-    "timeMonth": 261,
+    "timeDay": 429,
+    "timeWeek": 314,
+    "timeMonth": 262,
     "timeYear": 289,
     "dailyMinutesDown": {}
   },
@@ -67,7 +66,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "55.45%",
+    "uptime": "55.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -78,7 +77,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-27": 155,
+      "2026-04-28": 162,
+      "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
@@ -441,8 +441,7 @@
       "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
-      "2025-04-29": 1440,
-      "2025-04-28": 1440
+      "2025-04-29": 1440
     }
   },
   {
@@ -456,10 +455,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.94%",
-    "time": 853,
-    "timeDay": 990,
-    "timeWeek": 873,
-    "timeMonth": 842,
+    "time": 852,
+    "timeDay": 620,
+    "timeWeek": 822,
+    "timeMonth": 835,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2026-02-04": 216,
