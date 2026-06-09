@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 143,
-    "timeDay": 61,
-    "timeWeek": 84,
-    "timeMonth": 83,
+    "timeDay": 110,
+    "timeWeek": 89,
+    "timeMonth": 85,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2025-07-02": 21,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 36,
-    "timeWeek": 197,
-    "timeMonth": 178,
-    "timeYear": 196,
+    "time": 188,
+    "timeDay": 376,
+    "timeWeek": 239,
+    "timeMonth": 188,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 406,
-    "timeWeek": 212,
-    "timeMonth": 269,
+    "timeDay": 195,
+    "timeWeek": 227,
+    "timeMonth": 261,
     "timeYear": 288,
     "dailyMinutesDown": {}
   },
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "53.96%",
+    "uptime": "53.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -76,7 +76,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-08": 225,
+      "2026-06-09": 173,
+      "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
@@ -439,8 +440,7 @@
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
-      "2025-06-10": 1440,
-      "2025-06-09": 1440
+      "2025-06-10": 1440
     }
   },
   {
@@ -454,11 +454,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.94%",
-    "time": 871,
-    "timeDay": 1035,
-    "timeWeek": 1316,
-    "timeMonth": 1214,
-    "timeYear": 884,
+    "time": 873,
+    "timeDay": 1358,
+    "timeWeek": 1300,
+    "timeMonth": 1224,
+    "timeYear": 886,
     "dailyMinutesDown": {
       "2025-07-10": 72,
       "2025-09-03": 694,
