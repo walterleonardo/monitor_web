@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 143,
-    "timeDay": 81,
-    "timeWeek": 75,
-    "timeMonth": 84,
+    "timeDay": 113,
+    "timeWeek": 83,
+    "timeMonth": 85,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2025-07-02": 21,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 889,
-    "timeWeek": 299,
-    "timeMonth": 216,
-    "timeYear": 198,
+    "time": 190,
+    "timeDay": 293,
+    "timeWeek": 336,
+    "timeMonth": 223,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   },
   {
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 290,
-    "timeWeek": 333,
-    "timeMonth": 267,
+    "timeDay": 399,
+    "timeWeek": 332,
+    "timeMonth": 277,
     "timeYear": 290,
     "dailyMinutesDown": {}
   },
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "53.76%",
+    "uptime": "53.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -76,7 +76,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 230,
+      "2026-06-15": 242,
+      "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -439,8 +440,7 @@
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
-      "2025-06-16": 1440,
-      "2025-06-15": 1440
+      "2025-06-16": 1440
     }
   },
   {
@@ -454,11 +454,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.94%",
-    "time": 877,
-    "timeDay": 1045,
-    "timeWeek": 1155,
-    "timeMonth": 1218,
-    "timeYear": 889,
+    "time": 878,
+    "timeDay": 1041,
+    "timeWeek": 1156,
+    "timeMonth": 1210,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2025-07-10": 72,
       "2025-09-03": 694,
