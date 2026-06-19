@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 143,
-    "timeDay": 57,
+    "timeDay": 79,
     "timeWeek": 75,
-    "timeMonth": 84,
+    "timeMonth": 85,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2025-07-02": 21,
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 36,
-    "timeWeek": 321,
-    "timeMonth": 217,
-    "timeYear": 199,
+    "timeDay": 319,
+    "timeWeek": 356,
+    "timeMonth": 226,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   },
   {
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 468,
-    "timeWeek": 324,
-    "timeMonth": 271,
+    "timeDay": 335,
+    "timeWeek": 275,
+    "timeMonth": 278,
     "timeYear": 290,
     "dailyMinutesDown": {}
   },
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "53.62%",
+    "uptime": "53.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -76,7 +76,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 221,
+      "2026-06-19": 244,
+      "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -439,8 +440,7 @@
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
-      "2025-06-20": 1440,
-      "2025-06-19": 1440
+      "2025-06-20": 1440
     }
   },
   {
@@ -450,14 +450,14 @@
     "slug": "fcrentacarmallorca",
     "status": "up",
     "uptime": "95.90%",
-    "uptimeDay": "83.78%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.68%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "93.89%",
-    "time": 880,
-    "timeDay": 899,
-    "timeWeek": 1117,
-    "timeMonth": 1200,
+    "time": 881,
+    "timeDay": 1297,
+    "timeWeek": 1150,
+    "timeMonth": 1199,
     "timeYear": 893,
     "dailyMinutesDown": {
       "2025-07-10": 72,
