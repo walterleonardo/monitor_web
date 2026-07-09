@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 142,
-    "timeDay": 58,
-    "timeWeek": 66,
-    "timeMonth": 76,
-    "timeYear": 151,
+    "timeDay": 56,
+    "timeWeek": 63,
+    "timeMonth": 74,
+    "timeYear": 150,
     "dailyMinutesDown": {
       "2025-11-21": 24,
       "2025-12-13": 37,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 42,
-    "timeWeek": 104,
-    "timeMonth": 188,
-    "timeYear": 198,
+    "time": 190,
+    "timeDay": 38,
+    "timeWeek": 97,
+    "timeMonth": 176,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 324,
-    "timeWeek": 212,
-    "timeMonth": 267,
+    "timeDay": 305,
+    "timeWeek": 244,
+    "timeMonth": 270,
     "timeYear": 287,
     "dailyMinutesDown": {}
   },
@@ -64,7 +64,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "52.95%",
+    "uptime": "52.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -75,7 +75,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-08": 148,
+      "2026-07-09": 164,
+      "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
@@ -438,8 +439,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
-      "2025-07-10": 1440,
-      "2025-07-09": 1440
+      "2025-07-10": 1440
     }
   },
   {
@@ -454,10 +454,10 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "93.89%",
     "time": 901,
-    "timeDay": 1098,
-    "timeWeek": 1868,
-    "timeMonth": 1282,
-    "timeYear": 915,
+    "timeDay": 875,
+    "timeWeek": 1802,
+    "timeMonth": 1267,
+    "timeYear": 912,
     "dailyMinutesDown": {
       "2025-07-10": 72,
       "2025-09-03": 694,
