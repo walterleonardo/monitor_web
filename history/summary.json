@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 137,
-    "timeDay": 70,
-    "timeWeek": 83,
-    "timeMonth": 86,
+    "timeDay": 96,
+    "timeWeek": 86,
+    "timeMonth": 85,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2025-11-21": 24,
@@ -36,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 201,
-    "timeWeek": 186,
-    "timeMonth": 260,
-    "timeYear": 186,
+    "time": 198,
+    "timeDay": 305,
+    "timeWeek": 218,
+    "timeMonth": 263,
+    "timeYear": 187,
     "dailyMinutesDown": {}
   },
   {
@@ -55,10 +55,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 103,
-    "timeWeek": 250,
-    "timeMonth": 239,
-    "timeYear": 269,
+    "timeDay": 216,
+    "timeWeek": 229,
+    "timeMonth": 237,
+    "timeYear": 268,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iabalear.com.ico",
     "slug": "iabalear-com",
     "status": "down",
-    "uptime": "48.91%",
+    "uptime": "48.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -78,7 +78,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-17": 390,
+      "2026-11-18": 352,
+      "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -441,8 +442,7 @@
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
-      "2025-11-19": 1440,
-      "2025-11-18": 1440
+      "2025-11-19": 1440
     }
   },
   {
@@ -456,11 +456,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.44%",
     "uptimeYear": "99.44%",
-    "time": 991,
-    "timeDay": 1363,
-    "timeWeek": 1239,
-    "timeMonth": 1181,
-    "timeYear": 1046,
+    "time": 992,
+    "timeDay": 1553,
+    "timeWeek": 1319,
+    "timeMonth": 1195,
+    "timeYear": 1049,
     "dailyMinutesDown": {
       "2025-12-22": 31,
       "2026-02-04": 216,
